@@ -101,9 +101,7 @@
                       <li class="links">
                         <a class="nav-link" href="#lipstick">Lipstick</a>
                       </li>
-                      <li class="links">
-                        <a class="nav-link" href="#craddles">Craddles</a>
-                      </li>
+                    
                     </ul>
                   </nav>
                 </div>
