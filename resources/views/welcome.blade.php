@@ -100,18 +100,19 @@
                     Pendo's Store
                 </div>
                 
-                    <!--HI PENDO TO ADD A NEW LINK COPY ONE OF THE ABOVE
-                      REMEMBER href must equal bottom product page
-                    -->
+                   
                     
                   <nav id="navbar">
                     <ul>
+                    
+                     <!--HI PENDO TO ADD A NEW LINK COPY ONE OF THE BELOW
+                      REMEMBER href must equal bottom product page
+                      -->
                       
                       <li class="links">
                         <a class="nav-link" href="#shoes">Baby Shoes</a>
                       </li>
                       
-                     
                      
                       <li class="links">
                         <a class="nav-link" href="#tshirts">T-shirts</a>
@@ -119,7 +120,7 @@
 
                       <!--HI PENDO TO ADD A NEW LINK COPY ONE OF THE ABOVE
                       REMEMBER href must equal bottom product page
-                    -->
+                      -->
 
                     </ul>
                   </nav>
@@ -139,18 +140,28 @@
 
         <div data-spy="scroll" data-target="#navbar" data-offset="0">
 
+         <!--HI PENDO TO ADD A PRODUCT PAGE COPY ONE OF THE BELOW
+          REMEMBER id must equal top link
+
+          Pictures for products go into public/images folder
+          -->
+          
           <div id="shoes" data-spy="scroll" data-target="#navbar" data-offset="0" class="mb-5">
             <div class="container">
               <div class="row">
-                <div class="col-sm-4">
+              
+                <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image1.jpeg">
                 </div>
-                <div class="col-sm-4">
+                
+                <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image2.jpeg">
                 </div>
-                <div class="col-sm-4">
+                
+                <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image3.jpeg">
                 </div>
+              
               </div>
             </div>
           </div>
@@ -160,14 +171,12 @@
           <div id="tshirts"  data-spy="scroll" data-target="#navbar" data-offset="0" class="mb-5" >
             <div class="container">
               <div class="row">
-                <div class="col-sm-4">
+                <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image4.jpeg">
                 </div>
-                <div class="col-sm-4">
+                <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image5.jpeg">
                 </div>
-              
-
               </div>
             </div>
           </div>
