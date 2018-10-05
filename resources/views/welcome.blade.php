@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Pendo's</title>
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 
         <!-- Fonts -->
@@ -67,9 +67,14 @@
                     display:inline-block;
                     *display:inline; /*IE7*/
                     *zoom:1; /*IE7*/
+                    padding: 0;
+                    margin:0;
 
             }
 
+            ul {
+              padding-left: 0;
+}
             .description {
               font-weight:bold;
             }
@@ -78,12 +83,15 @@
               font-weight:bold;
             }
 
+            .phone {
+              font-weight:bold;
+            }
 
 
         </style>
     </head>
     <body>
-
+<!--class="flex-center position-ref full-height"-->
         <div class="flex-center position-ref full-height">
 
 
@@ -92,23 +100,27 @@
                     Pendo's Store
                 </div>
 
-                <div class="links content">
                   <nav id="navbar">
                     <ul>
                       <li class="links">
-                        <a class="nav-link" href="#shoes">Shoes</a>
+                        <a class="nav-link" href="#shoes">Baby Shoes</a>
                       </li>
                       <li class="links">
-                        <a class="nav-link" href="#lipstick">Lipstick</a>
+                        <a class="nav-link" href="#lipstick">Jewellery</a>
                       </li>
-                    
+
+                      <!--HI PENDO TO ADD A NEW LINK COPY ONE OF THE ABOVE
+                      REMEMBER href must equal bottom product page
+                    -->
+
                     </ul>
                   </nav>
-                </div>
 
                 <br>
                 <div class="description">China Wholesale to Tanzania</div>
-                <div class="email">Pendo@gmail.com</div>
+                <div class="email">PendoBakari@qq.com</div>
+                <div class="email">+255784333216</div>
+
             </div>
 
 
@@ -119,37 +131,45 @@
 
         <div data-spy="scroll" data-target="#navbar" data-offset="0">
 
-          <div id="shoes" class="flex-center position-ref full-height" data-spy="scroll" data-target="#navbar" data-offset="0">
+          <div id="shoes" data-spy="scroll" data-target="#navbar" data-offset="0" class="mb-5">
             <div class="container">
               <div class="row">
-                <div class="col-sm">
+                <div class="col-sm-4">
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image1.jpeg">
                 </div>
-                <div class="col-sm">
+                <div class="col-sm-4">
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image2.jpeg">
                 </div>
-                <div class="col-sm">
+                <div class="col-sm-4">
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image3.jpeg">
                 </div>
               </div>
             </div>
           </div>
 
-          <div id="lipstick" class="flex-center position-ref full-height" data-spy="scroll" data-target="#navbar" data-offset="0">
+          <div id="lipstick"  data-spy="scroll" data-target="#navbar" data-offset="0" class="mb-5" >
             <div class="container">
               <div class="row">
-                <div class="col-sm">
+                <div class="col-sm-4">
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image4.jpeg">
                 </div>
-                <div class="col-sm">
+                <div class="col-sm-4">
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image5.jpeg">
                 </div>
-                <div class="col-sm">
+                <div class="col-sm-4">
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image6.jpg">
                 </div>
+
               </div>
             </div>
           </div>
+
+          <!--HI PENDO TO ADD A PRODUCT PAGE COPY ONE OF THE ABOVE
+          REMEMBER id must equal top link
+
+          Pictures for products go into public/images folder
+          -->
+
 
         </div>
 
