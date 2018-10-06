@@ -115,13 +115,11 @@
                       
                      
                       <li class="links">
-                        <a class="nav-link" href="#tshirts">T-shirts</a>
+                        <a class="nav-link" href="#jewellery">Jewellery</a>
                       </li>      
                       
                       
-                      <li class="links">
-                        <a class="nav-link" href="#books">Books</a>
-                      </li>
+                   
 
                       <!--HI PENDO TO ADD A NEW LINK COPY ONE OF THE ABOVE
                       REMEMBER href must equal bottom product page
@@ -173,11 +171,14 @@
 
       
           
-          <div id="tshirts"  data-spy="scroll" data-target="#navbar" data-offset="0" class="mb-5" >
+          <div id="jewellery"  data-spy="scroll" data-target="#navbar" data-offset="0" class="mb-5" >
             <div class="container">
               <div class="row">
                 <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image4.jpeg">
+                </div>
+                <div class="col-sm-4"> <!--Image-->
+                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image5.jpeg">
                 </div>
                 <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image5.jpeg">
@@ -186,18 +187,7 @@
             </div>
           </div>
           
-          <div id="books"  data-spy="scroll" data-target="#navbar" data-offset="0" class="mb-5" >
-            <div class="container">
-              <div class="row">
-                <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image4.jpeg">
-                </div>
-                <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image5.jpeg">
-                </div>
-              </div>
-            </div>
-          </div>
+          
 
           <!--HI PENDO TO ADD A PRODUCT PAGE COPY ONE OF THE ABOVE
           REMEMBER id must equal top link
