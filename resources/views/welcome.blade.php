@@ -154,7 +154,7 @@
               <div class="row">
               
                 <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image1.jpeg">
+                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo.png">
                 </div>
                 
                 <div class="col-sm-4"> <!--Image-->
