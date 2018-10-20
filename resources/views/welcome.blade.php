@@ -153,20 +153,17 @@
             <div class="container">
               <div class="row">
                
-                <div class="card col-sm-4 bg-transparent border-transparent">
+               <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo.png">
-                  <div class="card-footer bg-transparent border-transparent">Footer</div>
+                  <h2 class="text-center">Szing</h2>
                 </div>
-                
-                <div class="card col-sm-4 bg-transparent border-transparent">
+                <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image2.jpeg">
-                  <div class="card-footer bg-transparent border-transparent">Footer</div>
+                  <h2 class="text-center">Szing</h2>
                 </div>
-                
-                <div class="card col-sm-4 bg-transparent border-transparent">
+                <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image3.jpeg">
-                  <div class="card-footer bg-transparent border-transparent">Footer</div>  
-                  
+                  <h2 class="text-center">Szing</h2>
                 </div>
               
               </div>
