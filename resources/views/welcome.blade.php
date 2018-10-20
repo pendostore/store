@@ -161,14 +161,14 @@
                 </div>
                 
                 <div class="card col-sm-4">
-                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image2.png">
+                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image2.jpeg">
                         <div class="card-body">
                             <p class="card-text">Sizes Unkown</p>
                         </div>
                 </div>
                 
                 <div class="card col-sm-4">
-                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image3.png">
+                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image3.jpeg">
                         <div class="card-body">
                             <p class="card-text">Sizes Unkown</p>
                         </div>
