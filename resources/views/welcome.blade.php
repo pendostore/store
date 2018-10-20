@@ -96,7 +96,8 @@
                   <h2 class="text-center">Sizes: Pendo's Big Booty </h2>
                 </div>
                 
-                <br>
+                <br>    <br>
+
                 
                    <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo.png">
