@@ -152,17 +152,26 @@
           <div id="shoes" data-spy="scroll" data-target="#navbar" data-offset="0" class="mb-5">
             <div class="container">
               <div class="row">
-              
-                <div class="col-sm-4"> <!--Image-->
+               
+                <div class="card col-sm-4" style="width: 18rem;">
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo.png">
+                        <div class="card-body">
+                            <p class="card-text">Sizes Unkown</p>
+                        </div>
                 </div>
                 
-                <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image2.jpeg">
+                <div class="card col-sm-4" style="width: 18rem;">
+                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo2.png">
+                        <div class="card-body">
+                            <p class="card-text">Sizes Unkown</p>
+                        </div>
                 </div>
                 
-                <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image3.jpeg">
+                <div class="card col-sm-4" style="width: 18rem;">
+                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo3.png">
+                        <div class="card-body">
+                            <p class="card-text">Sizes Unkown</p>
+                        </div>
                 </div>
               
               </div>
