@@ -106,17 +106,17 @@
                <div class="row">
                
                 <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/pendo.png">
+                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo.png">
                   <h2 class="text-center w-100 h-10">Sizes: Pendo's Big Booty </h2>
                 </div>
                 
                 <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image2.jpeg">
+                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image2.jpeg">
                   <h2 class="text-center w-100 h-10">Sizes: Pendo's Big Booty </h2>
                 </div>
                 
                 <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image3.jpeg">
+                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image3.jpeg">
                   <h2 class="text-center w-100 h-10">Sizes: Pendo's Big Booty </h2>
                 </div>
                 
