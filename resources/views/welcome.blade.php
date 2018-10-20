@@ -155,15 +155,15 @@
                
                <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo.png">
-                  <h2 class="text-center">Szing</h2>
+                  <h2 class="text-center">Sizes: Pendo's Big Booty </h2>
                 </div>
                 <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image2.jpeg">
-                  <h2 class="text-center">Szing</h2>
+                  <h2 class="text-center">Sizes: Pendo's Big Booty </h2>
                 </div>
                 <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image3.jpeg">
-                  <h2 class="text-center">Szing</h2>
+                  <h2 class="text-center">Sizes: Pendo's Big Booty </h2>
                 </div>
               
               </div>
