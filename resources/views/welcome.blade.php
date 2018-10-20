@@ -83,18 +83,18 @@
              <div class="row">
                
                 <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/pendo.png">
-                  <h2 class="text-center d-block w-100 h-10">Sizes: Pendo's Big Booty </h2>
+                  <img class="d-block" src="{{ URL::to('/') }}/images/pendo.png">
+                  <h2 class="text-center d-block">Sizes: Pendo's Big Booty </h2>
                 </div>
                 
                 <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image2.jpeg">
-                  <h2 class="text-center d-block w-100 h-10">Sizes: Pendo's Big Booty </h2>
+                  <img class="d-block" src="{{ URL::to('/') }}/images/image2.jpeg">
+                  <h2 class="text-center d-block">Sizes: Pendo's Big Booty </h2>
                 </div>
                 
                 <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image3.jpeg">
-                  <h2 class="text-center d-block w-100 h-10">Sizes: Pendo's Big Booty </h2>
+                  <img class="d-block" src="{{ URL::to('/') }}/images/image3.jpeg">
+                  <h2 class="text-center d-block">Sizes: Pendo's Big Booty </h2>
                 </div>
                 
                </div>
@@ -106,18 +106,18 @@
                <div class="row">
                
                 <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/pendo.png">
-                  <h2 class="text-center d-block w-100 h-10">Sizes: Pendo's Big Booty </h2>
+                  <img class="d-block" src="{{ URL::to('/') }}/images/pendo.png">
+                  <h2 class="text-center d-block">Sizes: Pendo's Big Booty </h2>
                 </div>
                 
                 <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image2.jpeg">
-                  <h2 class="text-center d-block w-100 h-10">Sizes: Pendo's Big Booty </h2>
+                  <img class="d-block" src="{{ URL::to('/') }}/images/image2.jpeg">
+                  <h2 class="text-center d-block">Sizes: Pendo's Big Booty </h2>
                 </div>
                 
                 <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image3.jpeg">
-                  <h2 class="text-center d-block w-100 h-10">Sizes: Pendo's Big Booty </h2>
+                  <img class="d-block" src="{{ URL::to('/') }}/images/image3.jpeg">
+                  <h2 class="text-center d-block">Sizes: Pendo's Big Booty </h2>
                 </div>
                 
                </div>
