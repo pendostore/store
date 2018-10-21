@@ -83,7 +83,7 @@
              <div class="row">
                
                 <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/pendo.png">
+                  <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image1.jpeg">
                   <h2 class="text-center d-block w-100 h-10">Sizes: Pendo's Big Booty </h2>
                 </div>
                 
@@ -119,6 +119,16 @@
                   <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image3.jpeg">
                   <h2 class="text-center d-block w-100 h-10">Sizes: Pendo's Big Booty </h2>
                 </div>
+                
+               </div>
+               
+               <div class="row">
+               
+                <div class="col-sm-4"> <!--Image-->
+                  <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image7.jpeg">
+                  <h2 class="text-center d-block w-100 h-10">Sizes: Pendo's Big Booty </h2>
+                </div>
+                
                 
                </div>
               
