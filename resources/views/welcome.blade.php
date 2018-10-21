@@ -105,8 +105,7 @@
                 
                </div>
                
-               <br>              
-               <br>
+       
  
                <div class="row">
                
@@ -130,8 +129,7 @@
                 
                </div>
                
-               <br>              
-               <br>
+              
                
                <div class="row">
                
@@ -149,7 +147,7 @@
           </div>
 
       <br>              
-               <br>
+      <br>
           
           <!--
           
