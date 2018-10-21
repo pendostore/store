@@ -84,16 +84,19 @@
                
                 <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image1.jpeg">
+                  <h2 class="text-center d-block w-100 h-10">Option #1 </h2>
                   <h2 class="text-center d-block w-100 h-10">Sizes: 26-37 </h2>
                 </div>
                 
                 <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image2.jpeg">
+                  <h2 class="text-center d-block w-100 h-10">Option #2 </h2>
                   <h2 class="text-center d-block w-100 h-10">Sizes: 26-37 </h2>
                 </div>
                 
                 <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image3.jpeg">
+                  <h2 class="text-center d-block w-100 h-10">Option #3 </h2>
                   <h2 class="text-center d-block w-100 h-10">Sizes: 26-37 </h2>
                 </div>
                 
@@ -106,16 +109,19 @@
                
                 <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image4.jpeg">
+                  <h2 class="text-center d-block w-100 h-10">Option #4 </h2>
                   <h2 class="text-center d-block w-100 h-10">Sizes: 26-37 </h2>
                 </div>
                 
                 <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image5.jpeg">
+                  <h2 class="text-center d-block w-100 h-10">Option #5 </h2>
                   <h2 class="text-center d-block w-100 h-10">Sizes: 26-37 </h2>
                 </div>
                 
                 <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image6.jpeg">
+                  <h2 class="text-center d-block w-100 h-10">Option #6 </h2>
                   <h2 class="text-center d-block w-100 h-10">Sizes: 26-37 </h2>
                 </div>
                 
@@ -128,6 +134,7 @@
                
                 <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image7.jpeg">
+                   <h2 class="text-center d-block w-100 h-10">Option #7 </h2>
                   <h2 class="text-center d-block w-100 h-10">Sizes: 26-37 </h2>
                 </div>
                 
@@ -145,13 +152,19 @@
             <div class="container">
               <div class="row">
                 <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image4.jpeg">
+                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo.png">
+                    <h2 class="text-center d-block w-100 h-10">Option #1 </h2>
+                  <h2 class="text-center d-block w-100 h-10">Ivory </h2>
                 </div>
                 <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image5.jpeg">
+                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo.png">
+                    <h2 class="text-center d-block w-100 h-10">Option #2 </h2>
+                  <h2 class="text-center d-block w-100 h-10">Gold </h2>
                 </div>
                 <div class="col-sm-4"> <!--Image-->
-                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/image5.jpeg">
+                  <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo.png">
+                    <h2 class="text-center d-block w-100 h-10">Option 37 </h2>
+                  <h2 class="text-center d-block w-100 h-10">Silver </h2>
                 </div>
               </div>
             </div>
