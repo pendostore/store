@@ -157,17 +157,17 @@
             <div class="container">
               <div class="row">
                
-               <div class="col-sm-4"> <!--Image-->
+               <div class="col-sm-4"> 
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo.png">
                     <h2 class="text-center d-block w-100 h-10">Option #1 </h2>
                   <h2 class="text-center d-block w-100 h-10">Ivory </h2>
                 </div>
-                <div class="col-sm-4"> <!--Image-->
+                <div class="col-sm-4"> 
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo.png">
                     <h2 class="text-center d-block w-100 h-10">Option #2 </h2>
                   <h2 class="text-center d-block w-100 h-10">Gold </h2>
                 </div>
-                <div class="col-sm-4"> <!--Image-->
+                <div class="col-sm-4"> 
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo.png">
                     <h2 class="text-center d-block w-100 h-10">Option 37 </h2>
                   <h2 class="text-center d-block w-100 h-10">Silver </h2>
