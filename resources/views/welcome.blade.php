@@ -156,7 +156,8 @@
           <div id="jewellery"  data-spy="scroll" data-target="#navbar" data-offset="0" class="mb-5" >
             <div class="container">
               <div class="row">
-                <div class="col-sm-4"> <!--Image-->
+               
+               <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-100" src="{{ URL::to('/') }}/images/pendo.png">
                     <h2 class="text-center d-block w-100 h-10">Option #1 </h2>
                   <h2 class="text-center d-block w-100 h-10">Ivory </h2>
@@ -171,6 +172,7 @@
                     <h2 class="text-center d-block w-100 h-10">Option 37 </h2>
                   <h2 class="text-center d-block w-100 h-10">Silver </h2>
                 </div>
+                
               </div>
             </div>
           </div>
