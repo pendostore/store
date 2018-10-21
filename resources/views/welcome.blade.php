@@ -89,18 +89,17 @@
                 
                 <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image2.jpeg">
-                  <h2 class="text-center d-block w-100 h-10">Sizes: Sizes: 26-37 </h2>
+                  <h2 class="text-center d-block w-100 h-10">Sizes: 26-37 </h2>
                 </div>
                 
                 <div class="col-sm-4"> <!--Image-->
                   <img class="d-block w-100 h-90" src="{{ URL::to('/') }}/images/image3.jpeg">
-                  <h2 class="text-center d-block w-100 h-10">Sizes: 26-37Booty </h2>
+                  <h2 class="text-center d-block w-100 h-10">Sizes: 26-37 </h2>
                 </div>
                 
                </div>
                
                <br>              
-               <br>
                <br>
  
                <div class="row">
@@ -122,6 +121,9 @@
                 
                </div>
                
+               <br>              
+               <br>
+               
                <div class="row">
                
                 <div class="col-sm-4"> <!--Image-->
@@ -131,11 +133,13 @@
                 
                 
                </div>
+               
               
             </div>
           </div>
 
-      
+      <br>              
+               <br>
           
           <div id="jewellery"  data-spy="scroll" data-target="#navbar" data-offset="0" class="mb-5" >
             <div class="container">
