@@ -42,9 +42,12 @@
                       </li>
                       
                      
-                      <li class="links">
+                     <!-- 
+                     <li class="links">
                         <a class="nav-link" href="#jewellery">Jewellery</a>
-                      </li>      
+                      </li> 
+                      -->
+                      
                       
                       
                    
@@ -148,6 +151,8 @@
       <br>              
                <br>
           
+          <!--
+          
           <div id="jewellery"  data-spy="scroll" data-target="#navbar" data-offset="0" class="mb-5" >
             <div class="container">
               <div class="row">
@@ -169,6 +174,8 @@
               </div>
             </div>
           </div>
+          
+          -->
           
           
 
