@@ -58,7 +58,7 @@
 
                 <br>
                 <div class="description">China Wholesale to Tanzania</div>
-                <div class="email">PendoBakari@qq.com</div>
+                <div class="email">PendoMagohorah@gmail.com</div>
                 <div class="email">+255784333216</div>
 
             </div>
